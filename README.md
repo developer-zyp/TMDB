@@ -1,5 +1,5 @@
 ## BaseApp
-Android Base Project for developing Apps
+Android Base Project for developing Apps <br/>
 Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, Retrofit, ViewModel) based on MVVM architecture.
 
 ## Tech stack
