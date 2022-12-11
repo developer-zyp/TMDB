@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/movieListFragment"
-        android:name="com.example.baseapp.ui.movielist.MovieListFragment"
+        android:name="com.example.tmdp.ui.movielist.MovieListFragment"
         android:label="fragment_movie_list"
         tools:layout="@layout/fragment_movie_list">
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/movieDetailFragment"
-        android:name="com.example.baseapp.ui.moviedetail.MovieDetailFragment"
+        android:name="com.example.tmdp.ui.moviedetail.MovieDetailFragment"
         android:label="fragment_movie_detail"
         tools:layout="@layout/fragment_movie_detail">
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/searchFragment"
-        android:name="com.example.baseapp.ui.moviesearch.MovieSearchFragment"
+        android:name="com.example.tmdp.ui.moviesearch.MovieSearchFragment"
         android:label="fragment_movie_search"
         tools:layout="@layout/fragment_movie_search">
         <action
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/favouriteFragment"
-        android:name="com.example.baseapp.ui.moviefavourite.FavouriteFragment"
+        android:name="com.example.tmdp.ui.moviefavourite.FavouriteFragment"
         android:label="fragment_favourite"
         tools:layout="@layout/fragment_favourite">
         <action
