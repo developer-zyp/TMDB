@@ -16,6 +16,7 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, Retrofit
 - ViewBinding
 - Retrofit & OkHttp3
 - Gson
+- Glide
 
 <!-- 
 - Paging 3
