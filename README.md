@@ -16,6 +16,16 @@ Android project with Kotlin Coroutines, Flow/LiveData and Jetpack(Room, Retrofit
 - ViewBinding
 - Retrofit & OkHttp3
 - Gson
+
 <!-- 
 - Paging 3
 - Picasso -->
+
+## Screenshots
+
+<p float="left">
+<img src="images/screenshot_1.jpeg" height="400"  alt="screenshot"/>
+<img src="images/screenshot_2.jpeg" height="400"  alt="screenshot"/>
+<img src="images/screenshot_3.jpeg" height="400"  alt="screenshot"/>
+</p>
+
